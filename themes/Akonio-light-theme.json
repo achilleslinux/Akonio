@@ -207,7 +207,7 @@
             ],
             "settings": {
                 "fontStyle": "normal",
-                "foreground": "#C3E88D"
+                "foreground": "#000000"
             }
         },
         {
@@ -223,7 +223,7 @@
                 "support.type.sys-types"
             ],
             "settings": {
-                "foreground": "#FFCB6B"
+                "foreground": "#ffa600"
             }
         },
         {
@@ -246,7 +246,7 @@
                 "source.postcss support.type.property-name"
             ],
             "settings": {
-                "foreground": "#B2CCD6"
+                "foreground": "#000000"
             }
         },
         {
@@ -420,7 +420,7 @@
                 "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
             ],
             "settings": {
-                "foreground": "#FFCB6B"
+                "foreground": "#ffa600"
             }
         },
         {
@@ -493,7 +493,7 @@
                 "punctuation.definition.list_item.markdown"
             ],
             "settings": {
-                "foreground": "#EEFFFF"
+                "foreground": "#2957d6"
             }
         },
         {
@@ -531,7 +531,7 @@
                 "markup.heading.markdown punctuation.definition.heading.markdown"
             ],
             "settings": {
-                "foreground": "#C3E88D"
+                "foreground": "#91df1b"
             }
         },
         {
@@ -728,7 +728,7 @@
 		"list.inactiveSelectionForeground": "#959da6",
 		"list.invalidItemForeground": "#b3b9bf",
 		"activityBar.background": "#ffffff",
-		"activityBar.foreground": "#ff0000cc",
+		"activityBar.foreground": "#000000cc",
 		"activityBar.border": "#959da61a",
 		"activityBarBadge.background": "#407cff",
 		"activityBarBadge.foreground": "#fafafa",
@@ -815,7 +815,7 @@
 		"panelTitle.activeBorder": "#407cff",
 		"panelTitle.activeForeground": "#6c7680",
 		"panelTitle.inactiveForeground": "#959da6",
-		"statusBar.background": "#ff0000cc",
+		"statusBar.background": "#000000cc",
 		"statusBar.foreground": "#ffffff",
 		"statusBar.border": "#959da61a",
 		"statusBar.debuggingBackground": "#ff0000cc",
